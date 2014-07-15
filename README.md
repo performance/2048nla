@@ -21,3 +21,13 @@ Python source derived from [ 2048-ai ]( https://github.com/nneonneo/2048-ai )
 * $python per.py
 * Watch how it tries to solve the puzzle
 
+
+## How to contribute
+
+* Play the [ original 2048 game ]( http://gabrielecirulli.github.io/2048/ )
+* Try to think of ways to solve it without contemplating what a move could potentially do.
+* Try to summarize your approach as a set of rules
+* Run the code in this project as per the description above. ( Try atleast 16 runs ).
+* Go through the code and make your changes, test thoroughly and submit your patches or pull request.
+* I will accept any change that helps the project get better, architecture, style, logic, performance, anything 
+
